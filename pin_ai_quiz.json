@@ -1,0 +1,107 @@
+You said:
+{
+  "title": "PIN AI KNOWLEDGE QUIZ",
+  "made_by": "@yourXhandle",
+  "questions": [
+    {
+      "question": "What is the main purpose of PIN AI?",
+      "options": ["Social media analytics", "AI-powered content creation", "Blockchain trading", "Cloud storage"],
+      "answer": "AI-powered content creation"
+    },
+    {
+      "question": "Which feature differentiates PIN AI from traditional AI keyboards?",
+      "options": ["Voice input", "AI suggestions", "Direct integration with Web3 apps", "Predictive text"],
+      "answer": "Direct integration with Web3 apps"
+    },
+    {
+      "question": "Which blockchain ecosystem is PIN AI primarily building for?",
+      "options": ["Ethereum", "Solana", "Web3 native apps", "Binance Smart Chain"],
+      "answer": "Web3 native apps"
+    },
+    {
+      "question": "How does PIN AI reward users for engagement?",
+      "options": ["Cash payouts", "Token rewards & points", "NFT badges", "Only in-app recognition"],
+      "answer": "Token rewards & points"
+    },
+    {
+      "question": "True or False: PIN AI started as a Telegram mini-app before moving to its native platform.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a key challenge PIN AI addresses in AI keyboards?",
+      "options": ["Low battery consumption", "Integration with decentralized apps", "Slower typing speeds", "Limited emojis"],
+      "answer": "Integration with decentralized apps"
+    },
+    {
+      "question": "Which of these is a unique feature of PIN AI’s content generation?",
+      "options": ["Supports multi-language voice input", "Automatic blockchain payments", "Personalized NFT recommendations", "Auto social media posting"],
+      "answer": "Supports multi-language voice input"
+    },
+    {
+      "question": "PIN AI’s tokenomics model focuses on:",
+      "options": ["Staking only", "Community engagement & reward distribution", "Inflation control", "None of the above"],
+      "answer": "Community engagement & reward distribution"
+    },
+    {
+      "question": "Which of these best describes PIN AI’s target audience?",
+      "options": ["Web2 content creators", "Web3 enthusiasts & community members", "Corporate marketers", "AI researchers only"],
+      "answer": "Web3 enthusiasts & community members"
+    },
+    {
+      "question": "PIN AI’s native app transition primarily solved which technical complexity?",
+      "options": ["User interface lag", "Reward transparency", "Multi-platform support", "Voice recognition errors"],
+      "answer": "Reward transparency"
+    },
+    {
+      "question": "What type of content does PIN AI’s AI keyboard help generate?",
+      "options": ["Only text messages", "Only images", "Text, images, and social media posts", "Only emojis"],
+      "answer": "Text, images, and social media posts"
+    },
+    {
+      "question": "True or False: PIN AI currently allows users to see their earned points in real-time.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "Which type of AI model does PIN AI use for predictive content?",
+      "options": ["Perceptron-based AI", "Transformer-based AI", "CNN model", "RNN model"],
+      "answer": "Transformer-based AI"
+    },
+    {
+      "question": "How does PIN AI ensure fairness in reward distribution?",
+      "options": ["Manual verification by team", "Blockchain-based points system", "Random lottery", "Daily quizzes"],
+      "answer": "Blockchain-based points system"
+    },
+    {
+      "question": "Which social platform did PIN AI originally integrate with for mini-apps?",
+      "options": ["Telegram", "Discord", "Twitter", "Reddit"],
+      "answer": "Telegram"
+    },
+    {
+      "question": "How can users maximize rewards in PIN AI?",
+      "options": ["Daily engagement & content sharing", "Only invite friends", "Only complete quizzes", "Purchase tokens"],
+      "answer": "Daily engagement & content sharing"
+    },
+    {
+      "question": "Which of the following is a future goal for PIN AI?",
+      "options": ["Centralized content moderation", "Full-stack decentralized AI ecosystem", "Mobile-only experience", "AI trading bots"],
+      "answer": "Full-stack decentralized AI ecosystem"
+    },
+    {
+      "question": "True or False: PIN AI points can be converted to tokens directly on the app.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "question": "Who is eligible to participate in PIN AI’s reward system?",
+      "options": ["Only early adopters", "All registered users", "Only developers", "Only investors"],
+      "answer": "All registered users"
+    },
+    {
+      "question": "PIN AI’s architecture ensures security primarily through:",
+      "options": ["Encrypted local storage", "Decentralized ledger verification", "Two-factor authentication", "Cloud-only hosting"],
+      "answer": "Decentralized ledger verification"
+    }
+  ]
+}
